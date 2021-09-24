@@ -21,10 +21,7 @@
 
 <!-- GitHub Status -->
 <h1 align="center">&#x1f4c8; Github Status</h1>
-<div class="inline-block">
-    <img src="https://github-readme-stats.vercel.app/api?username=KelvinMulyawan&theme=algolia&column=7&no-frame=true&show_icons=true" />&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinMulyawan&hide=C,html,CSS,C++&theme=algolia&column=7&no-frame=true&layout=compact"/>
-</div>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=KelvinMulyawan&theme=algolia&column=7&no-frame=true&show_icons=true" /></p>
 
 <!-- Closing Statement -->
 <h1 align="center">ありがとうございます 😃</h1>

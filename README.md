@@ -5,9 +5,9 @@
 <h3 align="center">I'm a Data Science Enthusiast and an Information system student</h3>
 
 <!-- Github Metrics -->
-<img alt="" width="400" src="https://github.com/KelvinMulyawan/KelvinMulyawan/blob/master/metrics.classic.svg"><img width="900" height="1" alt="">
+<p align="center"><img alt="" width="400" src="https://github.com/KelvinMulyawan/KelvinMulyawan/blob/master/metrics.classic.svg"><img width="900" height="1" alt=""></p>
 
-<a href="https://www.linkedin.com/in/kelvin-mulyawan-bb6617217"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p align="center"><a href="https://www.linkedin.com/in/kelvin-mulyawan-bb6617217"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
 
 <!-- Technologies and Tools -->
 <h1 align="center">🔧 Technologies & Tools</h1>

@@ -5,7 +5,7 @@
 <h3 align="center">I'm a Data Science Enthusiast and an Information system student</h3>
 
 <!-- Github Metrics -->
-<p align="center"><img alt="" width="400" src="https://github.com/KelvinMulyawan/KelvinMulyawan/blob/master/metrics.classic.svg"><img width="900" height="1" alt=""></p>
+<p align="center"><img alt="" width="400" src="https://github.com/KelvinMulyawan/KelvinMulyawan/blob/master/github-metrics.svg"><img width="900" height="1" alt=""></p>
 
 <p align="center"><a href="https://www.linkedin.com/in/kelvin-mulyawan-bb6617217"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
 

@@ -1333,7 +1333,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            245 Commits
+            246 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1450,14 +1450,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="433.64670793825303" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="433.64670793825303" y="0" width="9.692278835392845" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="443.33898677364584" y="0" width="7.8179776612793574" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="451.1569644349252" y="0" width="2.5104157103194846" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="453.6673801452447" y="0" width="2.4397006783431086" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="456.1070808235878" y="0" width="1.7909485298304781" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="457.8980293534183" y="0" width="1.6954073254547757" height="8" fill="#fedf5b"/>
-                    <rect mask="url(#languages-bar)" x="459.5934366788731" y="0" width="0.4065633211269537" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="434.0228467135761" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="434.0228467135761" y="0" width="9.301688542288371" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="443.3245352558645" y="0" width="7.824758860096703" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="451.1492941159612" y="0" width="2.512593207977246" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="453.6618873239384" y="0" width="2.4418168388223846" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="456.10370416276083" y="0" width="1.7925019722395765" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="457.8962061350004" y="0" width="1.6968778968286535" height="8" fill="#fedf5b"/>
+                    <rect mask="url(#languages-bar)" x="459.593084031829" y="0" width="0.40691596817096576" height="8" fill="#012456"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2598,6 +2598,25 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <span class="sha">#f149a03</span>
+                                        <span class="message">Predicting Churn</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">KelvinMulyawan/Python-Notebook-DTC</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <span class="sha">#3741218</span>
                                         <span class="message">Predicting Churn</span>
                                     </div>
@@ -2657,25 +2676,6 @@
                                     <div class="commit">
                                         <span class="sha">#1027b58</span>
                                         <span class="message">fixing black formatter</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">KelvinMulyawan/Tensorflow</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#e7f2bcf</span>
-                                        <span class="message">unfinished introduction due to bad signal, thank u</span>
                                     </div>
                                 </div>
                             </section>
@@ -3137,7 +3137,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29/09/2021, 23:17 (timezone Asia/Jakarta) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 30/09/2021, 00:17 (timezone Asia/Jakarta) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

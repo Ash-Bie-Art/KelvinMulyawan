@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue">
     <img src="https://img.shields.io/badge/Package-pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a">
     <img src="https://img.shields.io/badge/Package-scikit_learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=orange">
+    <img src="https://img.shields.io/badge/Package-numpy-informational?style=flat&logo=numpy&logoColor=white&color=blue">
  </div>
 
 <!-- GitHub Status -->

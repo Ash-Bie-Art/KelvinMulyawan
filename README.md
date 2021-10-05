@@ -4,6 +4,8 @@
 <h1 align="center">Hii, I'm Kelvin Mulyawan <img src="https://raw.githubusercontent.com/KelvinMulyawan/KelvinMulyawan/master/wave.gif" width="30px"></h1>
 <h3 align="center">I'm a Data Science Enthusiast and an Information system student at STMIK Indonesia Padang</h3>
 
+<p align="center"><i>I only see my goals, I don't believe in Failure</i></p>
+
 <!-- Github Metrics -->
 <p align="center"><img width="400" src="https://github.com/KelvinMulyawan/KelvinMulyawan/blob/main/github-metrics.svg"><img width="900" height="1" alt=""></p>
 
